@@ -3,7 +3,7 @@ def square_array(numbers)
   new_array=[]
   
   numbers.each do |element| 
-    element **2
+    element ** 2
     new_array<< element
   end
   new_array
