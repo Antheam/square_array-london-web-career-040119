@@ -5,8 +5,6 @@ def square_array(numbers)
   numbers.each do |element| 
     element **2
     new_array.push(element)
-    numbers +=1 
-    
   end
   new_array
 end
