@@ -1,8 +1,8 @@
-def square_array(array)
+def square_array(numbers)
   # your code here
-  array=[1,2,3]
-  array.each do |number| 
-    sqrt("#{number}")
+  numbers=[1,2,3]
+  numbers.each do |element| 
+    sqrt("#{element}")
     number +=1 
   end
 end
