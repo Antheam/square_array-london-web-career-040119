@@ -7,4 +7,5 @@ def square_array(numbers)
     numbers +=1 
     
   end
+  new_array
 end
