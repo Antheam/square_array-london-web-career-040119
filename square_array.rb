@@ -3,6 +3,6 @@ def square_array(numbers)
   numbers=[1,2,3]
   numbers.each do |element| 
     Math.sqrt(element)
-    number +=1 
+    numbers +=1 
   end
 end
